@@ -6,3 +6,4 @@ how are you
 1st updated by test
 1st updated by remote master
 2nd updated by local master
+2nd updated by remote master
